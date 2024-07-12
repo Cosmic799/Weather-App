@@ -19,7 +19,7 @@
 
 - Download or clone the repository
 ```
-git clone https://github.com/Ayushparikh-code/Web-dev-mini-projects.git
+git clone https://github.com/Cosmic799/Weather-App.git
 ```
 - Go to the directory
 - Run the index.html file
@@ -28,8 +28,8 @@ git clone https://github.com/Ayushparikh-code/Web-dev-mini-projects.git
 
 
 <h3> ScreenShots </h3>  
-<img src = "Weather-App.jpg" alt="Sample Image">
-<br>
-<video controls autoplay>
-  <source src="sample.mp4" type="video/mp4">
-</video>
+
+<img width="959" alt="delhi" src="https://github.com/user-attachments/assets/ba43d06b-d319-429b-bc47-17c900ee82ee">
+
+
+<img width="959" alt="weather" src="https://github.com/user-attachments/assets/8806c948-5d54-4e7e-9211-a8764bfc01ab">
